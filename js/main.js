@@ -1,4 +1,4 @@
-/*Copywright (c) Shyam B*/
+/*Copyright (c) Shyam B*/
 var app = angular.module('myApp', []);
 app.controller('myController', function($scope, $rootScope) {
   var baseColor = '#F0F0F0',
